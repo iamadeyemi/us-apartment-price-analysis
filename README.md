@@ -24,23 +24,6 @@ This study explores how **location, square footage, number of bedrooms, and amen
 
 ---
 
-## 📂 **Project Structure**  
-
-```
-📦 rental-market-trends
-│-- 📁 data                     # Raw and processed datasets
-│-- 📁 notebooks                 # Jupyter notebooks for EDA & modeling
-│-- 📁 models                    # Saved ML models
-│-- 📁 static                    # Static files for web app
-│-- 📁 templates                 # HTML templates for Flask app
-│-- 📄 app.py                    # Flask application
-│-- 📄 requirements.txt          # Required libraries
-│-- 📄 README.md                 # Project documentation
-│-- 📄 rental_analysis.ipynb     # Main notebook for data analysis
-```
-
----
-
 ## 📊 **Data Overview**  
 
 - **Dataset Source:** UCI Machine Learning Repository  

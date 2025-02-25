@@ -133,7 +133,3 @@ This project is licensed under the **MIT License** – feel free to use and impr
 If you found this project useful, please **star ⭐ the repository** and share it!  
 
 Happy coding! 🚀🏡💻  
-
----
-
-This **detailed, structured, and visually engaging README** will make your GitHub repository **stand out** and provide clear guidance to users. Let me know if you'd like any modifications! 🚀

@@ -120,7 +120,7 @@ python app.py
 ## 👨‍💻 **Contributors**  
 - **Timothy Adeyemi** 🚀  
   - **GitHub:** [@yourusername](https://github.com/iamtimothy)  
-  - **LinkedIn:** [Your Profile](https://www.linkedin.com/in/yourname)  
+  - **LinkedIn:** [Your Profile](https://www.linkedin.com/in/timothy-ade/)  
 
 ---
 

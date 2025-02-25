@@ -45,8 +45,8 @@ This study provides a **data-backed approach** to understanding U.S. rental pric
 
 ## 👨‍💻 **Contributors**  
 - **Timothy Adeyemi** 🚀  
-  - **GitHub:** [@yourusername](https://github.com/iamtimothy)  
-  - **LinkedIn:** [Your Profile](https://www.linkedin.com/in/timothy-ade/)  
+  - **GitHub:** [@iamadeyemi](https://github.com/iamtimothy)  
+  - **LinkedIn:** [iamadeyemi](https://www.linkedin.com/in/timothy-ade/)  
 
 ---
 

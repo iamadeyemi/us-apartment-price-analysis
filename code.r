@@ -412,7 +412,7 @@ vif_plot <- plot_ly(
 subplot(vif_table, vif_plot, nrows = 2, margin = 0.07, titleX = TRUE)
 
 
-# ==========================
+# =========================
 # 6. Removing High-VIF Predictors and Refitting Model
 # ==========================
 print("Step 6: Removing highly collinear predictors (VIF > 5) and refitting the model...")
